@@ -1,0 +1,35 @@
+
+h1{
+    color:Sblack
+}
+
+.header{
+    background-color: aquamarine;
+    display:flex;
+    justify-content:space-evenly;
+} 
+         
+.menu{
+    background-color: burlywood;
+    display: flex;
+    justify-content: space-around;
+}
+.games{
+    background-color: chartreuse;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.socialmedia{
+    background-color: #E9967A;
+    display: flex;
+    justify-content: flex-end;
+}
+
+h2,p{
+    text-align: center;
+}
+
+body{
+    background-color: #808080;
+}
